@@ -1,2 +1,2 @@
 # Calculator-
-This is simple calculator.
+This is simple calculator using python.
