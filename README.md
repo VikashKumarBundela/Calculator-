@@ -5,7 +5,7 @@ This is a simple calculator built using Python.
 ---
 
 ## Example Output
-![Output](image.png)
+![Output](IMG_20260501_173524.png)
 
 ---
 
